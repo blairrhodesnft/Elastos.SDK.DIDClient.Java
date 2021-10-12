@@ -25,8 +25,8 @@ public class ElaTransferServiceTest {
     private String didPrivateKey = "17f9885d36ce7c646cd1d613708e9b375f81b81309fbdfbd922d0cd72faadb1b";
     private String didPublicAddr = "EJqsNp9qSWkX7wkkKeKnqeubok6FxuA9un";
 
-    private String ethPrivateKey = "3e7bd30c5dd15e50e31c3d59a0db08d54c38bb4349406ce52149e732dcbe3914";
-    private String ethPublicAddr = "0xb3597A4Ed6aA224dF9741322805F9C8BDC6Ab9A4";
+    private String ethPrivateKey = "0f013155827a0d4e10c5b40d4cf98aa37e6fae274637ec12e4250c4f2c0f5d2b";
+    private String ethPublicAddr = "0x622644626437437e510000830f67bbc6E2599c74";
 
     private String elaMemo = "lamp laugh fatal victory tonight utility spray curve lazy ticket vessel happy";
     private String didMemo = "gentle total soda metal reform bind indicate into egg calm prize chronic";
